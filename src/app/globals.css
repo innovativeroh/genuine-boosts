@@ -4,6 +4,8 @@
 
 body {
   font-family: Arial, Helvetica, sans-serif;
+  background: url('/background.webp');
+  background-size: cover;
 }
 
 @layer utilities {
