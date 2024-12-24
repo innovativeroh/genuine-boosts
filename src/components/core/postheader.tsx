@@ -6,7 +6,7 @@ const postheader = () => {
   return (
     <>
     <div className="w-full bg-black mt-8 p-4 lg:p-8 rounded-lg border-[#233453] border-[1px]">
-          <div className="flex flex-col lg:items-center justify-between">
+          <div className="flex flex-col lg:flex-row lg:items-center justify-between">
             <div className="flex-[1] p-2 lg:border-r-[1px] lg:border-[#233453]">
               <div className="flex">
                 <Image src={avatar} alt="Avatar" width={80} height={80} className="rounded-lg" />
