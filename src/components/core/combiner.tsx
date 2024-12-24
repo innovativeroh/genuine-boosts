@@ -6,7 +6,7 @@ const combiner = () => {
   return (
     <>
       <Header />
-      <div className="max-w-[1200px] m-auto">
+      <div className="max-w-[1200px] m-auto p-4">
         <PostHeader />
         <Navigation />
       </div>
