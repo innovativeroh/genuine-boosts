@@ -12,7 +12,7 @@ const postheader = () => {
                 <Image src={avatar} alt="Avatar" width={80} height={80} className="rounded-lg" />
                 <div className="flex-[1] pl-4">
                   <div className="flex flex-col gap-2">
-                  <div className="flex-[1] p-1 font-semibold text-indigo-500">Products Sold</div>
+                  <div className="flex-[1] p-1 font-semibold text-indigo-500">NomNom Boost&quot;s</div>
                   <div className="flex-[1] p-1 font-light text-pink-500 text-sm">Providing customer services since July 2023</div>
                   </div>
                 </div>

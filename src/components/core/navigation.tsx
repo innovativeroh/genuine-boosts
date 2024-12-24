@@ -8,7 +8,6 @@ const navigation = () => {
         <button className='bg-transparent px-4 py-2 border-transparent text-white text-sm border-b-[2px]'>F.A.Q</button>
         <button className='bg-transparent px-4 py-2 border-transparent text-white text-sm border-b-[2px]'>Feedback</button>
         <button className='bg-transparent px-4 py-2 border-transparent text-white text-sm border-b-[2px]'>Terms</button>
-        <button className='bg-transparent px-4 py-2 border-transparent text-white text-sm border-b-[2px]'>Gift Cards</button>
         </div>
     </div>
   )
